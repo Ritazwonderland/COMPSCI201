@@ -1,0 +1,7 @@
+
+ParathesesCompleter.java:50: error: 'else' without 'if'
+            else if (!operator.isEmpty()) result.push(operator.pop());
+            ^
+1 error
+
+

@@ -1,0 +1,19 @@
+
+Zipf.java:62: error: cannot find symbol
+        Array.sort(text);
+        ^
+  symbol:   variable Array
+  location: class Zipf
+Zipf.java:66: error: cannot find symbol
+            System.out.printf("%10d %s\n", text.freq, text.key);
+                                               ^
+  symbol:   variable freq
+  location: variable text of type Pair[]
+Zipf.java:66: error: cannot find symbol
+            System.out.printf("%10d %s\n", text.freq, text.key);
+                                                          ^
+  symbol:   variable key
+  location: variable text of type Pair[]
+3 errors
+
+

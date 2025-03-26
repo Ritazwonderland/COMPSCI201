@@ -1,0 +1,20 @@
+
+Reverse.java:12: error: constructor Stack in class Stack<Item> cannot be applied to given types;
+        Stack s=new Stack(StdIn.readAll());
+                ^
+  required: no arguments
+  found: String
+  reason: actual and formal argument lists differ in length
+  where Item is a type-variable:
+    Item extends Object declared in class Stack
+Reverse.java:15: error: method push in class Stack<Item> cannot be applied to given types;
+            s.push();
+             ^
+  required: Object
+  found: no arguments
+  reason: actual and formal argument lists differ in length
+  where Item is a type-variable:
+    Item extends Object declared in class Stack
+2 errors
+
+

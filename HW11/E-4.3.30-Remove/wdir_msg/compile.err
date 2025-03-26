@@ -1,0 +1,9 @@
+
+Remove.java:46: error: cannot find symbol
+            if (q.v.equals(key)) 
+                 ^
+  symbol:   variable v
+  location: variable q of type LinkNode
+1 error
+
+
