@@ -1,0 +1,27 @@
+
+TOY_PeekAt.java:121: error: no suitable method found for println(String,int)
+                StdOut.println("PC="+Integer.toHexString(tgtpc).toUpperCase()+"  R["+Integer.toHexString(tgtreg).toUpperCase()+"]="+reg[tgtreg],16);//
+                      ^
+    method StdOut.println() is not applicable
+      (actual and formal argument lists differ in length)
+    method StdOut.println(Object) is not applicable
+      (actual and formal argument lists differ in length)
+    method StdOut.println(boolean) is not applicable
+      (actual and formal argument lists differ in length)
+    method StdOut.println(char) is not applicable
+      (actual and formal argument lists differ in length)
+    method StdOut.println(double) is not applicable
+      (actual and formal argument lists differ in length)
+    method StdOut.println(float) is not applicable
+      (actual and formal argument lists differ in length)
+    method StdOut.println(int) is not applicable
+      (actual and formal argument lists differ in length)
+    method StdOut.println(long) is not applicable
+      (actual and formal argument lists differ in length)
+    method StdOut.println(short) is not applicable
+      (actual and formal argument lists differ in length)
+    method StdOut.println(byte) is not applicable
+      (actual and formal argument lists differ in length)
+1 error
+
+

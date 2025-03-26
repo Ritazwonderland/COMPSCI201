@@ -1,0 +1,9 @@
+
+TOY.java:155: error: cannot find symbol
+                    String bin=Integer.toBinary(mem[255]);
+                                      ^
+  symbol:   method toBinary(int)
+  location: class Integer
+1 error
+
+

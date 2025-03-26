@@ -1,0 +1,15 @@
+//00 r0=01
+//01 load a from FF to r01
+//02 load b from FF to r02
+//multi a and b:
+//03 add r02 to r03
+//04 substract 1 from r01(i.e.: a)
+//
+//
+//print output: 
+//07 store r03 to FF
+
+//three problems:
+//no halt
+//line starts at 10, should be labeled
+//consider a or b == 0

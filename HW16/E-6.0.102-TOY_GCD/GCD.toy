@@ -1,0 +1,15 @@
+10:8AFF //load input to a
+11:8BFF //load input to b
+12:2CAB //c=a-b
+13:CC1B //if c==0 pc=1B
+14:CB1B //if b==0 pc=1B
+15:CA1D //if a==0 pc=1D
+16:DC19 //if c>0 pc=19
+17:2BBA //b=b-a
+18:C012 //pc=12
+19:2AAB //a=a-b
+1A:C012 //pc=12
+1B:9AFF //print a
+1C:C01E //pc=1E
+1D:9BFF //print b
+1E:0000
