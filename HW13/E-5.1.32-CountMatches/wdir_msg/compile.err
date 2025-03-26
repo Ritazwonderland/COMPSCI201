@@ -1,0 +1,7 @@
+
+CountMatches.java:14: error: incompatible types: String cannot be converted to Matcher
+        Matcher matcher = input;
+                          ^
+1 error
+
+

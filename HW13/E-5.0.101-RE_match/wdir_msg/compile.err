@@ -1,0 +1,8 @@
+
+RE_match.java:14: error: incompatible types: possible lossy conversion from long to int
+                if (input.substring(j,j+i).matches(re))
+                                       ^
+Note: Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+1 error
+
+
