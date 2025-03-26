@@ -1,0 +1,9 @@
+
+Collatz.java:91: error: unexpected type
+                if (memo[l]==max && print=false) 
+                                 ^
+  required: variable
+  found:    value
+1 error
+
+

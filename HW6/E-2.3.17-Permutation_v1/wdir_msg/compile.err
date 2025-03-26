@@ -1,0 +1,14 @@
+
+Permutation_v1.java:23: error: cannot find symbol
+        for (int i=0;i<s/length();i++)
+                         ^
+  symbol:   method length()
+  location: class Permutation_v1
+Permutation_v1.java:26: error: cannot find symbol
+            perm(prepend,s.substring(0,i)+s.substring(i+1,s.length));
+                                                           ^
+  symbol:   variable length
+  location: variable s of type String
+2 errors
+
+

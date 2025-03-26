@@ -1,0 +1,10 @@
+
+Combination.java:31: error: ']' expected
+                if (choice[i]==true) System.out.print(char[i]);
+                                                           ^
+Combination.java:31: error: ';' expected
+                if (choice[i]==true) System.out.print(char[i]);
+                                                            ^
+2 errors
+
+

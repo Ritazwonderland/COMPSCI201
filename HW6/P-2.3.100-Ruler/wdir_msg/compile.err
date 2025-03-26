@@ -1,0 +1,9 @@
+
+Ruler.java:12: error: cannot find symbol
+            return  ruler(n-1)+space+n+System.println()+ruler(n-1);
+                                             ^
+  symbol:   method println()
+  location: class System
+1 error
+
+

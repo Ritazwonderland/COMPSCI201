@@ -1,0 +1,7 @@
+
+BinaryRepresentation2.java:1: error: class BinaryRepresentation is public, should be declared in a file named BinaryRepresentation.java
+public class BinaryRepresentation
+       ^
+1 error
+
+

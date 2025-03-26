@@ -1,0 +1,9 @@
+
+BinaryRepresentation.java:20: error: bad operand types for binary operator '*'
+                System.out.println(recur_depth*" "+n+" --> "+ConvertToBinary(n));
+                                              ^
+  first type:  int
+  second type: String
+1 error
+
+
