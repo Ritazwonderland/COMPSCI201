@@ -1,0 +1,13 @@
+
+Threesort.java:17: error: incompatible types: int cannot be converted to String
+        System.out.print((String) x + (String) y + (String) z);
+                                  ^
+Threesort.java:17: error: incompatible types: int cannot be converted to String
+        System.out.print((String) x + (String) y + (String) z);
+                                               ^
+Threesort.java:17: error: incompatible types: int cannot be converted to String
+        System.out.print((String) x + (String) y + (String) z);
+                                                            ^
+3 errors
+
+

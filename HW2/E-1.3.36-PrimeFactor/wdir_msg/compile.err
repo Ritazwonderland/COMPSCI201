@@ -1,0 +1,10 @@
+
+PrimeFactor.java:21: error: variable count might not have been initialized
+                if (recFac != fac) count += 1;
+                                   ^
+PrimeFactor.java:26: error: variable count might not have been initialized
+        System.out.println(out + " has " + count + " distinct prime factors. ");
+                                           ^
+2 errors
+
+

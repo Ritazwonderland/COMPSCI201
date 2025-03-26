@@ -1,0 +1,7 @@
+
+Montehall_simplified.java:6: error: illegal start of expression
+        public static void main(String[] args) {
+        ^
+1 error
+
+

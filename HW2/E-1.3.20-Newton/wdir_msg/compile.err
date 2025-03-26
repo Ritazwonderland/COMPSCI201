@@ -1,0 +1,7 @@
+
+Newton.java:38: error: variable kth_root_of_n might not have been initialized
+        System.out.printf("%sth root of %s is %.5f\n", k, n, kth_root_of_n); 
+                                                             ^
+1 error
+
+
