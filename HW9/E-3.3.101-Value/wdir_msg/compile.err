@@ -1,0 +1,19 @@
+
+Value.java:87: error: cannot find symbol
+        if (valType == LONG) return ""+l;
+            ^
+  symbol:   variable valType
+  location: class Value
+Value.java:88: error: cannot find symbol
+        else if (valType == STRING) return s;
+                 ^
+  symbol:   variable valType
+  location: class Value
+Value.java:89: error: cannot find symbol
+        else if (valType == DOUBLE) return ""+d;
+                 ^
+  symbol:   variable valType
+  location: class Value
+3 errors
+
+

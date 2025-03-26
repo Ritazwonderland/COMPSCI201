@@ -1,0 +1,22 @@
+
+Password.java:21: error: illegal start of type
+            if ((n.charAt(i)>='A')&&(n.charAt(i)=<'Z')) {
+                                                  ^
+Password.java:21: error: ';' expected
+            if ((n.charAt(i)>='A')&&(n.charAt(i)=<'Z')) {
+                                                     ^
+Password.java:29: error: illegal start of type
+            if ((n.charAt(i)>='A')&&(n.charAt(i)=<'Z')) {
+                                                  ^
+Password.java:29: error: ';' expected
+            if ((n.charAt(i)>='A')&&(n.charAt(i)=<'Z')) {
+                                                     ^
+Password.java:38: error: illegal start of type
+            if ((n.charAt(i)>='0')&&(n.charAt(i)=<'9')) 
+                                                  ^
+Password.java:38: error: ';' expected
+            if ((n.charAt(i)>='0')&&(n.charAt(i)=<'9')) 
+                                                     ^
+6 errors
+
+
