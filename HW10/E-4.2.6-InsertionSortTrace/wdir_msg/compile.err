@@ -1,0 +1,9 @@
+
+InsertionSortTrace.java:25: error: variable i is already defined in method exchangeNPrint(Comparable[],int,int)
+    for (int i=0; i<a.length; i++)
+             ^
+Note: InsertionSortTrace.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+1 error
+
+

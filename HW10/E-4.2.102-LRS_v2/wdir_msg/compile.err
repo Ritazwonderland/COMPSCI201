@@ -1,0 +1,22 @@
+
+./MergeLazyString.java:35: error: incompatible types: String cannot be converted to String[]
+        String[] a = (StdIn.readAll());
+                                   ^
+./MergeLazyString.java:36: error: cannot find symbol
+        a_ = new LazyString[a.length];
+        ^
+  symbol:   variable a_
+  location: class MergeLazyString
+./MergeLazyString.java:39: error: cannot find symbol
+            a_[i]=new LazyString(a[i]);
+            ^
+  symbol:   variable a_
+  location: class MergeLazyString
+./MergeLazyString.java:41: error: cannot find symbol
+        sort(a_);
+             ^
+  symbol:   variable a_
+  location: class MergeLazyString
+4 errors
+
+
