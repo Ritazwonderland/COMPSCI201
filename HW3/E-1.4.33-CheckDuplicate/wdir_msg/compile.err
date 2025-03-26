@@ -1,0 +1,7 @@
+
+CheckDuplicate.java:20: error: variable hasDuplicate is already defined in method main(String[])
+                    boolean hasDuplicate = true;
+                            ^
+1 error
+
+
