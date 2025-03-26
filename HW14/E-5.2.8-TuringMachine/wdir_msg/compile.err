@@ -1,0 +1,11 @@
+
+TuringMachine.java:78: error: cannot find symbol
+            StdOut.println(tm.scanFor(old_state));
+                           ^
+  symbol:   variable tm
+  location: class TuringMachine
+Note: TuringMachine.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+1 error
+
+
