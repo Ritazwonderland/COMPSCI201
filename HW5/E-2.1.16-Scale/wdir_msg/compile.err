@@ -1,0 +1,17 @@
+
+Scale.java:31: error: cannot find symbol
+            arr[i] /= (max-min);
+                       ^
+  symbol:   variable max
+  location: class Scale
+Scale.java:31: error: cannot find symbol
+            arr[i] /= (max-min);
+                           ^
+  symbol:   variable min
+  location: class Scale
+Scale.java:33: error: incompatible types: unexpected return value
+        return arr;
+               ^
+3 errors
+
+

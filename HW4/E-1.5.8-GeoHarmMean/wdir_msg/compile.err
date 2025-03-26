@@ -1,0 +1,16 @@
+
+GeoHarmMean.java:10: error: variable geosum might not have been initialized
+            geosum+=Math.log(list[i]);
+            ^
+GeoHarmMean.java:11: error: variable harmosum might not have been initialized
+            harmosum+=1.0/list[i];
+            ^
+GeoHarmMean.java:13: error: variable geosum might not have been initialized
+        geomean=Math.pow(Math.E,geosum*1.0/n);
+                                ^
+GeoHarmMean.java:14: error: variable harmosum might not have been initialized
+        harmomean=n*1.0/(harmosum*1.0);
+                         ^
+4 errors
+
+
