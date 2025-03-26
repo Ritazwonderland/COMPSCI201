@@ -1,0 +1,14 @@
+
+Array.java:180: error: cannot find symbol
+        for (int i=0; i<a.length; i++)
+                        ^
+  symbol:   variable a
+  location: class Array
+Array.java:181: error: cannot find symbol
+            for (int j=0; j<a[0].length; j++)
+                            ^
+  symbol:   variable a
+  location: class Array
+2 errors
+
+

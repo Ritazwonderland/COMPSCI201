@@ -1,0 +1,7 @@
+
+Player.java:88: error: incompatible types: possible lossy conversion from double to int
+                if (grid[i][j]!=0) grid[i][j]=Math.pow(2,grid[i][j]);
+                                                      ^
+1 error
+
+

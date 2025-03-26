@@ -1,0 +1,7 @@
+
+./PlayerIO.java:20: error: empty character literal
+        char read='';
+                  ^
+1 error
+
+
